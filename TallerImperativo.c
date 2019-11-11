@@ -76,7 +76,7 @@ int strcmp(char *s, char *p){
     else {
         printf("0");
     }
-}/
+}
 //Escriba la siguiente función:
 //Void strcat(char *dest, char *src)
 //La función pega al final del string dest el valor del string src.
@@ -94,7 +94,7 @@ int main(){
     //CenToFar(9.7);
     //DiNumPar(2541368);
     //strcmp("hola","adios");
-    strcat("he","llo");
+    //strcat("he","llo");
 
     return 0;
 
